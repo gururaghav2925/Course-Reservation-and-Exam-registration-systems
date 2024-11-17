@@ -31,3 +31,4 @@ To Develope a Course Reservation and Exam Reservation using Star UML.
 
 
 # Result
+Thus the project to developed Course-Reservation-and-Exam-registration-systems system was developed using Star UML software.
